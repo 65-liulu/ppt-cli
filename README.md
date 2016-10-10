@@ -53,7 +53,6 @@ ppt server
 }
 
 ```
-Yin L
 
 
 
